@@ -34,9 +34,7 @@ L'agent part de la case **(0, 0)** et se déplace progressivement vers la case c
 
 ## **Vidéo Démonstration**
 
-<video width="640" height="480" controls>
-  <source src="./Labyrinthe.mp4" type="video/mp4">
-</video>
+[Regarder la vidéo](https://github.com/elmahdibouaiti/Labyrinthe/blob/main/Labyrinthe.mp4)
 
 ---
 
